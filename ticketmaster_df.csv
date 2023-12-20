@@ -1,0 +1,187 @@
+,venue_id,venue_name,event_id,event_name,avg_price,season,genre,subgenre,ticket_limit,age_restriction,venue_size,promoter
+0,KovZpa2gne,TD Garden,vvG17Z9ww45oYO,Kiss 108s Jingle Ball Presented By Capital One,277.5,fall,Rock,Pop,8.0,False,19580,PROMOTED BY VENUE
+1,KovZpa2gne,TD Garden,vvG17Z9xCMa7kG,Madonna - The Celebration Tour,311.5,winter,Rock,Pop,8.0,False,19580,LIVE NATION MUSIC
+2,KovZpa2gne,TD Garden,vvG17Z9cp1VomN,Doja Cat - The Scarlet Tour,139.5,fall,Hip-Hop/Rap,French Rap,4.0,False,19580,LIVE NATION MUSIC
+4,KovZpa2gne,TD Garden,vvG17Z9UrBEUDT,Melanie Martinez: The Trilogy Tour,89.5,spring,Rock,Pop,68.0,False,19580,LIVE NATION MUSIC
+5,KovZpa2gne,TD Garden,vvG17Z9NkmJwWQ,Madonna - The Celebration Tour,321.5,winter,Rock,Pop,8.0,False,19580,LIVE NATION MUSIC
+6,KovZpa2gne,TD Garden,vvG17Z9s65cKz_,Travis Scott Utopia Tour Presents Circus Maximus,166.5,winter,Hip-Hop/Rap,French Rap,8.0,False,19580,LIVE NATION MUSIC
+7,KovZpa2gne,TD Garden,vvG17Z9Uh61Ani,AJR - The Maybe Man Tour,107.0,spring,Pop,Pop,6.0,False,19580,LIVE NATION MUSIC
+8,KovZpa2gne,TD Garden,vvG17Z9sUgH-wp,Travis Scott Utopia Tour Presents Circus Maximus,166.5,winter,Hip-Hop/Rap,French Rap,8.0,False,19580,LIVE NATION MUSIC
+10,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9U7iJtRz,TATE MCRAE: THINK LATER TOUR ,56.5,summer,Pop,Pop,6.0,False,5000,LIVE NATION MUSIC
+11,KovZpa2gne,TD Garden,vvG17Z9JXfo3y-,Andrea Bocelli,232.5,fall,Classical,Classical/Vocal,8.0,False,19580,GELB PRODUCTIONS
+12,KovZpa2gne,TD Garden,vvG17Z9cRu74h5,Playboi Carti,258.0,winter,Hip-Hop/Rap,French Rap,8.0,False,19580,AEG LIVE
+13,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9YLcb4LW,Westlife: The Hits Tour - A St Patrick's Day Special,81.5,winter,Rock,Pop,6.0,False,5000,LIVE NATION MUSIC
+14,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9SEuB7Fa,Mitski,61.5,winter,Rock,Alternative Rock,4.0,False,5000,LIVE NATION MUSIC
+15,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9SEuBVF2,Mitski,61.5,winter,Rock,Alternative Rock,4.0,False,5000,LIVE NATION MUSIC
+17,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9V99GEpv,Madison Beer - Spinnin Tour,40.75,spring,Pop,Pop,6.0,False,5000,LIVE NATION MUSIC
+18,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9U5159qj,TATE MCRAE: THINK LATER TOUR ,56.5,summer,Pop,Pop,6.0,False,5000,LIVE NATION MUSIC
+19,KovZpZAJd6FA,Boch Center Wang Theatre,vvG17Z9wi-UIlZ,HATSUNE MIKU - MIKU EXPO 2024 NORTH AMERICA Powered by Crunchyroll,129.75,spring,Pop,Pop,8.0,False,3500,MAMMOTH INC
+20,KovZpa2gne,TD Garden,vvG17Z9UMwgU0X,AJR - The Maybe Man Tour,99.5,summer,Pop,Pop,6.0,False,19580,LIVE NATION MUSIC
+21,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9V3sTeer,Chelsea Cutler - The Beauty Is Everywhere Tour,44.5,winter,Rock,Pop,6.0,False,5000,LIVE NATION MUSIC
+22,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9SlSu0SK,Mitski,61.5,winter,Rock,Alternative Rock,4.0,False,5000,LIVE NATION MUSIC
+23,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9VRqBACN,Bonnie Raitt: Just Like That... Tour 2024,82.0,spring,Rock,Pop,4.0,False,5000,LIVE NATION MUSIC
+24,KovZpa2gne,TD Garden,vvG17Z9g9WUtv9,Bad Bunny - Most Wanted Tour,498.45000000000005,spring,Hip-Hop/Rap,French Rap,6.0,False,19580,LIVE NATION MUSIC
+25,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9gZ3REa_,The Saw Doctors,66.5,summer,Rock,Pop,8.0,False,5000,LIVE NATION MUSIC
+26,KovZpZAJd6FA,Boch Center Wang Theatre,vvG17Z9gBQBePo,"SESSANTA: Primus, Puscifer, A Perfect Circle",129.5,spring,Rock,Pop,6.0,False,3500,LIVE NATION MUSIC
+27,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9VLi9gQA,Dropkick Murphys,58.0,winter,Rock,Alternative Rock,8.0,False,5000,LIVE NATION MUSIC
+28,KovZpZAJd6FA,Boch Center Wang Theatre,vvG17Z9VRLxP3m,Dancing with the Stars: Live!,98.0,winter,Rock,Pop,8.0,False,3500,PROMOTED BY VENUE
+30,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9VLi9AQv,Dropkick Murphys,58.0,winter,Rock,Alternative Rock,8.0,False,5000,LIVE NATION MUSIC
+31,KovZpZAJd6FA,Boch Center Wang Theatre,vvG17Z9gBQm3PF,"SESSANTA: Primus, Puscifer, A Perfect Circle",129.5,spring,Rock,Pop,6.0,False,3500,LIVE NATION MUSIC
+32,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9nCjQxVq,Straight No Chaser: Sleighin' It Tour,44.25,fall,Rock,Pop,12.0,False,5000,LIVE NATION MUSIC
+33,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9SlSCfSO,Mitski,61.5,winter,Rock,Alternative Rock,4.0,False,5000,LIVE NATION MUSIC
+34,KovZpZA1J7JA,Orpheum Theatre presented by Citizens,vvG17Z9RSeDQFQ,Allman Betts Family Revival,68.0,fall,Rock,Pop,8.0,False,2700,LIVE NATION MUSIC
+35,KovZpZA1J7JA,Orpheum Theatre presented by Citizens,vvG17Z9UJ9yxvc,Jon Batiste: UNEASY Tour,100.75,winter,Pop,Pop,8.0,False,2700,LIVE NATION MUSIC
+36,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9Y6P5bOq,The Maine,41.0,fall,Rock,Pop,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+37,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9s7KFQ6y,Keane,49.25,fall,Rock,Alternative Rock,6.0,False,5000,LIVE NATION MUSIC
+38,KovZpZAEAdEA,Leader Bank Pavilion,vvG17Z9gM1Igj4,O.A.R. Summer Tour 24 with special guest Fitz and the Tantrums,64.5,summer,Rock,Alternative Rock,8.0,False,5000,LIVE NATION MUSIC
+40,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9VLipP_W,Dropkick Murphys,58.0,winter,Rock,Alternative Rock,8.0,False,5000,LIVE NATION MUSIC
+41,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9gxlN9mU,flipturn,35.5,spring,Rock,Alternative Rock,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+42,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9V6rae6Y,LANY - a beautiful blur: the world tour 2024,66.5,spring,Rock,Pop,6.0,False,5000,LIVE NATION MUSIC
+43,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9sjY8DQS,Aqua World Tour,62.5,fall,Rock,Pop,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+45,KovZpZAJd6FA,Boch Center Wang Theatre,vvG17Z9SlqhNOO,Frankie Valli & The Four Seasons: The Last Encores,119.0,spring,Rock,Oldies & Classics,8.0,False,3500,PROMOTED BY VENUE
+46,KovZpZAEAdEA,Leader Bank Pavilion,vvG17Z9VScUgKH,Jason Mraz: The Mystical Magical Rhythmical Radical Ride,64.5,summer,Rock,Alternative Rock,4.0,False,5000,LIVE NATION MUSIC
+47,KovZpZAFd1nA,Agganis Arena,vvG17Z9V1PO-d5,Morat - Si Ayer Fuera Hoy,139.5,winter,Pop,Pop,6.0,False,7200,LIVE NATION MUSIC
+48,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9RdRaJEK,Dogstar: Somewhere Between The Power Lines & Palm Trees Tour (18+),40.0,fall,Rock,Alternative Rock,4.0,True,933,CROSSROADS PRESENTS
+49,KovZpa2gne,TD Garden,vvG17Z9SQlettQ,Burna Boy: I Told Them Tour,149.5,winter,Hip-Hop/Rap,French Rap,6.0,False,19580,LIVE NATION MUSIC
+50,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9VRvWSTs,+++ (Crosses) - Familiar World Tour,51.0,winter,Rock,Pop,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+51,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9g2A64uy,BoyWithUke - Lucid Dreams Tour,37.5,spring,Pop,Pop,6.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+52,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9SEKG0oM,The Kooks - Inside In / Inside Out Tour,44.25,winter,Rock,Pop,4.0,False,5000,LIVE NATION MUSIC
+53,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9VESeNXC,Waterparks,52.0,winter,Rock,Pop,8.0,False,5000,LIVE NATION MUSIC
+54,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9g2vb0X7,The Saw Doctors,66.5,summer,Rock,Pop,8.0,False,5000,LIVE NATION MUSIC
+55,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9VbOnafr,Dropkick Murphys,60.0,winter,Rock,Alternative Rock,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+56,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9wDrJyvJ,bea miller - gauche tour,35.0,fall,Pop,Pop,8.0,False,933,CROSSROADS PRESENTS
+57,KovZpZA1J7JA,Orpheum Theatre presented by Citizens,vvG17Z9U2ebzKu,Satch Vai Us Tour: Joe Satriani & Steve Vai,85.75,spring,Rock,Pop,8.0,False,2700,LIVE NATION MUSIC
+58,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9YlCVfCi,Story Of The Year: 20 Years Of Page Avenue,38.5,winter,Rock,Pop,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+59,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9sN66MlA,Buffalo Tom 18+,35.0,fall,Rock,Pop,8.0,True,933,CROSSROADS PRESENTS
+60,KovZpZAFd1nA,Agganis Arena,vvG17Z9S1W13Nl,Mix 104.1 Presents Audacy Deck The Hall Ball starring Jelly Roll,87.25,fall,Country,Country,8.0,False,7200,LIVE NATION MUSIC
+61,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9wkPZeEN,Cold War Kids - 20 Years Tour,43.5,winter,Rock,Pop,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+62,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9gCo1-b3,Grace Potter,49.25,winter,Rock,Pop,8.0,False,5000,LIVE NATION MUSIC
+63,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9SiZd6-z,Josiah & the Bonnevilles: Endurance Tour,17.0,spring,Rock,Pop,4.0,False,933,CROSSROADS PRESENTS
+64,KovZpZA1J7JA,Orpheum Theatre presented by Citizens,vvG17Z9UEbmPbZ,Belle & Sebastian,63.0,spring,Rock,Alternative Rock,8.0,False,2700,LIVE NATION MUSIC
+65,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9gTtSUzJ,HOLLY HUMBERSTONE - The Holly Humberstone Show,25.0,spring,Rock,Alternative Rock,4.0,False,933,CROSSROADS PRESENTS
+66,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9wHrxt0L,Sky Ferreira,34.5,fall,Rock,Pop,8.0,False,933,CROSSROADS PRESENTS
+67,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9g5JGUim,Motion City Soundtrack - I AM THE MOVIE 20TH ANNIVERSARY TOUR (18+),45.0,winter,Rock,Pop,8.0,True,933,CROSSROADS PRESENTS
+68,KovZ917AxdQ,Big Night Live,vvG17Z9S2y6ITj,Giant Rooks,25.0,spring,Pop,Pop,8.0,False,2000,LIVE NATION MUSIC
+69,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9SMOBa2U,Sleater-Kinney (18+),45.0,winter,Rock,Alternative Rock,8.0,True,933,CROSSROADS PRESENTS
+70,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9Vh4nfYm,"Alkaline Trio: Blood, Hair, And Eyeballs The Tour",46.5,winter,Rock,Pop,6.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+71,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9gNUFFlh,JJ Grey & Mofro: Olustee Tour,49.5,spring,Rock,Pop,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+72,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9UhLO9v4,Blackberry Smoke: Be Right Here Tour,46.5,spring,Rock,Pop,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+73,KovZ917AxdQ,Big Night Live,vvG17Z9UOxTlgi,Starset - Immersion: The Final Chapter,30.0,spring,Rock,Pop,4.0,False,2000,LIVE NATION MUSIC
+74,KovZpZAEAIvA,The Wilbur,vvG17Z9VY2oE3L,Brittany Howard: What Now Tour,68.5,winter,Rock,Pop,48.0,False,1200,COMEDY CONNECTION
+75,KovZ917AxdQ,Big Night Live,vvG17Z9cMODz3w,Knuckle Puck & Real Friends,35.0,fall,Rock,Punk,8.0,False,2000,LIVE NATION MUSIC
+76,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9cMbSFAJ,Hooligan Holiday (18+),35.0,winter,Rock,Pop,8.0,True,933,CROSSROADS PRESENTS
+77,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9YKbOzwD,Cattle Decapitation (18+),30.0,fall,Rock,Pop,8.0,True,500,CROSSROADS PRESENTS
+78,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9mw-lNNR,Pigeons Playing Ping Pong (18+),39.0,winter,Rock,Pop,6.0,True,2200,HOUSE OF BLUES CONCERTS (HOB)
+79,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9Un-sd9M,"Porno For Pyros - Horns, Thorns En Halos Farewell Tour",44.25,winter,Rock,Alternative Rock,8.0,False,5000,LIVE NATION MUSIC
+80,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9U7vKbwb,Natalie Jane,20.0,winter,Pop,Pop,4.0,False,500,CROSSROADS PRESENTS
+81,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9mwNHSne,Pigeons Playing Ping Pong (21+),46.5,winter,Rock,Pop,6.0,True,2200,HOUSE OF BLUES CONCERTS (HOB)
+82,KovZpZA1EEJA,Boch Center Shubert Theatre,vvG17Z9UM6a7Ix,Rick Springfield & Richard Marx,111.5,winter,Rock,Pop,8.0,False,1500,PROMOTED BY VENUE
+83,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9lTgnbkl,Umphrey's McGee: UMBowl,100.0,spring,Rock,Pop,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+84,KovZ917AxdQ,Big Night Live,vvG17Z9VphZVVc,Ryan Beatty,27.5,winter,Rock,Pop,6.0,False,2000,LIVE NATION MUSIC
+85,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9lTsibej,Umphrey's McGee: UMBowl,100.0,spring,Rock,Pop,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+86,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9g5-2U0e,TALK - Lord of the Flies & Birds & Bees Tour,20.0,winter,Rock,Pop,6.0,False,933,CROSSROADS PRESENTS
+87,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9S3R1wqs,Magic City Hippies - Winter Tour,34.0,winter,Rock,Pop,6.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+88,KovZ917AxdQ,Big Night Live,vvG17Z9RlzvyNh,It's Beginning To Look A Lot Like ALASKA ...A Christmas Show ( 18+ ),40.0,fall,Rock,Alternative Rock,8.0,True,2000,LIVE NATION MUSIC
+89,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9UJiVxH-,Lyn Lapid - to love in the 21st century tour: the epilogue tour,22.0,winter,Rock,Pop,8.0,False,500,CROSSROADS PRESENTS
+90,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9gFRpyGl,The Milk Carton Kids,30.0,winter,Rock,Pop,8.0,False,933,CROSSROADS PRESENTS
+91,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9lNGtgXz,DURRY,18.0,fall,Rock,Alternative Rock,8.0,False,500,CROSSROADS PRESENTS
+92,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9gde-wMm,Josh Ritter & the Royal City Band-Hello Starling 20th Anniversary Tour,40.0,winter,Rock,Pop,8.0,False,933,CROSSROADS PRESENTS
+93,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9V3VWw6i,Thursday: War All The Time Live (18+),35.0,winter,Rock,Alternative Rock,8.0,True,933,CROSSROADS PRESENTS
+94,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9Ulwp9Ht,Peter Hook & The Light - North American Tour 2024,37.5,summer,Rock,Pop,6.0,False,933,CROSSROADS PRESENTS
+95,KovZpZAEAIvA,The Wilbur,vvG17Z9UhF7PRm,Alan Doyle: Welcome Home Tour w/ Special Guest Adam Baldwin,45.0,spring,Rock,Pop,8.0,False,1200,COMEDY CONNECTION
+96,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9wDEha3J,Ericdoa - Dead On Arrival Tour,22.0,winter,Pop,Pop,6.0,False,933,CROSSROADS PRESENTS
+97,KovZpZAEAIvA,The Wilbur,vvG17Z9SeDm0Z6,Direct from Sweden: The Music of ABBA,50.0,winter,Rock,Pop,8.0,False,1200,COMEDY CONNECTION
+98,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9nEwf_S5,bar italia,18.0,fall,Rock,Pop,8.0,False,500,CROSSROADS PRESENTS
+99,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9iOZ_Io0,TAUK  (18+),25.0,fall,Rock,Pop,8.0,True,500,CROSSROADS PRESENTS
+100,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9UUnvKeP,O Positive: With A Little Help From My Friends Benefit Concert (18+),49.99,winter,Rock,Pop,8.0,True,933,CROSSROADS PRESENTS
+101,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9IUb-3MO,Dylan Matthew: No Rain No Flowers Tour,20.0,fall,Pop,Pop,4.0,False,500,CROSSROADS PRESENTS
+102,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9V9yqI7u,Leanna Firestone,25.0,fall,Pop,Pop,8.0,False,933,CROSSROADS PRESENTS
+103,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9s5-19_6,lespecial w/ special guest Doom Flamingo,25.0,fall,Rock,Alternative Rock,8.0,False,933,CROSSROADS PRESENTS
+104,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9gEI2U7O,Charlotte Sands - can we start over tour,22.5,spring,Pop,Pop,8.0,False,933,CROSSROADS PRESENTS
+105,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9wrpfwIJ,milk.,18.0,fall,Rock,Pop,8.0,False,500,CROSSROADS PRESENTS
+106,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9SR4i7VO,Dexter And The Moonrocks (18+),25.0,fall,Rock,Alternative Rock,8.0,True,933,CROSSROADS PRESENTS
+107,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9IBcIKCI,Squid (18+),20.0,winter,Rock,Pop,8.0,True,933,CROSSROADS PRESENTS
+108,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9YL4KN4B,Ryan Montbleau Band (18+),35.0,fall,Rock,Pop,8.0,True,500,CROSSROADS PRESENTS
+109,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9gdvGwSH,Josh Ritter & the Royal City Band-Hello Starling 20th Anniversary Tour,40.0,winter,Rock,Pop,8.0,False,933,CROSSROADS PRESENTS
+110,KovZ917AxdQ,Big Night Live,vvG17Z9sDeadc5,The Pink Floyd Laser Spectacular,38.5,winter,Rock,Pop,8.0,False,2000,LIVE NATION MUSIC
+111,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9SpbbvsT,Christopher,22.0,winter,Pop,Pop,4.0,False,500,CROSSROADS PRESENTS
+112,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9SIKgpDR,Meet Me @ The Altar: Say It To My Face Tour,25.0,winter,Rock,Alternative Rock,8.0,False,933,CROSSROADS PRESENTS
+113,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9wT9F4QM,Bumpin Uglies (18+),22.0,winter,Rock,Pop,8.0,True,933,CROSSROADS PRESENTS
+114,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9RbNwju8,Drop Nineteens (18+),30.0,spring,Rock,Alternative Rock,8.0,True,933,CROSSROADS PRESENTS
+115,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9UNjkBUA,Matisyahu - Hold The Fire Tour 2024  (18+),36.0,winter,Rock,Alternative Rock,6.0,True,933,CROSSROADS PRESENTS
+116,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9VDpT9Zo,CMAT,22.0,spring,Pop,Pop,8.0,False,500,CROSSROADS PRESENTS
+117,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9V0ZRfoq, Kid Bloom: Inner Light Tour 2024 ,25.0,winter,Rock,Pop,8.0,False,500,CROSSROADS PRESENTS
+118,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9mDSZIHO,Pigeons Playing Ping Pong 2 Day Package (21+),55.0,winter,Rock,Pop,6.0,True,2200,HOUSE OF BLUES CONCERTS (HOB)
+119,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9gwKte7D,Jane Remover & quannnic,18.0,winter,Rock,Alternative Rock,8.0,False,500,CROSSROADS PRESENTS
+120,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9UOZUhC3,PLVTINUM,16.0,winter,Pop,Pop,8.0,False,500,CROSSROADS PRESENTS
+121,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9ghZDKmM,Ekkstacy,20.0,winter,Rock,Pop,8.0,False,500,CROSSROADS PRESENTS
+122,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9VRIqPgd,Emo Night Brooklyn (21+),17.5,fall,Rock,Pop,8.0,True,500,CROSSROADS PRESENTS
+123,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9gw2Mvb7,AJ Rafael,25.0,spring,Pop,Pop,8.0,False,500,CROSSROADS PRESENTS
+124,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9UlBnbff,Club 90's Presents Bad Bunny Night (18+),21.5,winter,Pop,Pop,8.0,True,933,CROSSROADS PRESENTS
+125,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9UGvZnG6,Rjd2 (18+),25.0,winter,Rock,Pop,8.0,True,500,CROSSROADS PRESENTS
+126,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z91hmbWDB,Social House,22.0,spring,Pop,Pop,8.0,False,500,CROSSROADS PRESENTS
+127,KovZpZAEAIvA,The Wilbur,vvG17Z9VMZo7hJ,John Lodge,62.5,winter,Rock,Pop,8.0,False,1200,COMEDY CONNECTION
+128,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9g1yQdyW,The Rock and Roll Playhouse,18.0,fall,Rock,Pop,8.0,False,500,CROSSROADS PRESENTS
+129,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9Sp-K3eS,The Coronas (18+),24.0,winter,Rock,Pop,8.0,True,500,CROSSROADS PRESENTS
+130,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9gRiq6m0,The Floozies (18+): Porty Hard Tour with BUKU & Father Funk,25.0,winter,Rock,Pop,8.0,True,933,CROSSROADS PRESENTS
+131,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9cUii4yi,Games We Play: Lifes Going Great Tour,21.0,spring,Rock,Alternative Rock,4.0,False,500,CROSSROADS PRESENTS
+132,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9swsXx4H,Hannah Wicklund,20.0,winter,Pop,Pop,8.0,False,500,CROSSROADS PRESENTS
+133,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17ZpUT4aVj9,Aaron and the Lord,20.0,winter,Rock,Alternative Rock,8.0,False,500,CROSSROADS PRESENTS
+134,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9ikwL0es,Steve Mason (of The Beta Band) (18+),25.0,spring,Rock,Pop,8.0,True,500,CROSSROADS PRESENTS
+135,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9gDfkbdO,Steve Rondo (18+),18.0,winter,Rock,Pop,8.0,True,500,CROSSROADS PRESENTS
+136,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9gLcfVQC,Jonathan Roy,25.0,spring,Pop,Pop,8.0,False,500,CROSSROADS PRESENTS
+137,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9gK4pUB4,Hush Club and Winkler,16.0,winter,Rock,Pop,8.0,False,500,CROSSROADS PRESENTS
+138,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9U75-tdH,Caligulas Horse,25.0,winter,Rock,Alternative Rock,8.0,False,500,CROSSROADS PRESENTS
+139,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9RTVUFpo,Juice,25.0,winter,Rock,Alternative Rock,8.0,False,933,CROSSROADS PRESENTS
+140,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9M92v0zB,Rolling Sloans (21+),8.87,fall,Rock,Pop,8.0,True,933,LIVE NATION MUSIC
+141,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9grtI3_z,The Fall of Troy (18+),25.0,fall,Rock,Alternative Rock,8.0,True,500,CROSSROADS PRESENTS
+142,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9M6CZ4xV,Between You and Me,22.0,spring,Rock,Pop,8.0,False,500,LIVE NATION MUSIC
+143,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9Vwz23wN,Code Orange,25.0,winter,Rock,Alternative Rock,8.0,False,933,CROSSROADS PRESENTS
+144,KovZpa2gne,TD Garden,vvG17Z9wxtVeNs,Olivia Rodrigo - GUTS world tour,124.5,spring,Pop,Pop,4.0,False,19580,PROMOTED BY VENUE
+145,KovZpa2gne,TD Garden,vvG17Z9wzbBhdE,Olivia Rodrigo - GUTS world tour,124.5,spring,Pop,Pop,4.0,False,19580,PROMOTED BY VENUE
+147,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9SS1kbA2,Augustana: Something Beautiful Tour,25.0,spring,Rock,Alternative Rock,4.0,False,500,CROSSROADS PRESENTS
+151,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9VhX0M9b,Destroyer (Solo),25.0,spring,Rock,Alternative Rock,8.0,False,500,CROSSROADS PRESENTS
+152,KovZ917AxdQ,Big Night Live,vvG17Z9UkW3Ult,Yonder Mountain String Band,32.5,winter,Rock,Alternative Rock,8.0,False,2000,LIVE NATION MUSIC
+153,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9g2HLb8_,Zeneth,18.0,fall,Rock,Alternative Rock,8.0,False,500,CROSSROADS PRESENTS
+154,KovZ91770kV,Boston Gliderdrome,G5dfZ9VMe_pue,Scouting for Girls,31.35,fall,Rock,Pop,46.0,False,3100,S.J.M. LTD
+155,KovZpZA1J7JA,Orpheum Theatre presented by Citizens,vvG17Z9UB9AvGI,Blue October,64.5,spring,Rock,Alternative Rock,6.0,False,2700,LIVE NATION MUSIC
+158,KovZpa2gne,TD Garden,vvG17Z9wSPJ480,Dan + Shay: Heartbreak On The Map Tour,99.5,spring,Country,Country,8.0,False,19580,LIVE NATION MUSIC
+159,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9iLP6kS8,Bailey Zimmerman: RELIGIOUSLY. THE TOUR.,89.375,spring,Country,Country,4.0,False,5000,LIVE NATION MUSIC
+160,KovZpa2gne,TD Garden,vvG17Z9S0kuJyv,Ms. Lauryn Hill & Fugees: Miseducation of Lauryn Hill 25th Anniv. Tour,179.5,fall,R&B,R&B,6.0,False,19580,PROMOTED BY VENUE
+161,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9m69r_AD,Meshuggah with Special Guests In Flames and Whitechapel,35.5,fall,Metal,Nu-Metal,8.0,False,5000,LIVE NATION MUSIC
+162,KovZpa2gne,TD Garden,vvG17Z9wRptSDu,Tim McGraw: Standing Room Only Tour 2024,129.625,spring,Country,Country,8.0,False,19580,LIVE NATION MUSIC
+163,KovZpa2gne,TD Garden,vvG17Z9VlVgA1U,Elevation Worship & Steven Furtick,71.25,winter,Religious,Gospel,8.0,False,19580,PROMOTED BY VENUE
+164,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9wMC904T,Brett Eldredge: Glow Live Tour,61.75,fall,Country,Country,8.0,False,5000,LIVE NATION MUSIC
+165,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9UzuqUVT,Cody Jinks & Turnpike Troubadours,81.75,winter,Country,Country,8.0,False,5000,LIVE NATION MUSIC
+166,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9wRmwglm,Subtronics Tesseract Tour 2024 - Boston,46.5,winter,Dance/Electronic,Witchstep,8.0,False,5000,LIVE NATION MUSIC
+167,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9gmUsf8g,Bryson Tiller,78.5,fall,Hip-Hop/Rap,French Rap,6.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+169,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9Y9ojExg,The Elovaters - Endless Summer Tour With Shwayze And Surfer Girl,43.5,winter,Reggae,Reggae,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+170,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9SNILAjy,Beartooth: 2024 North American Tour,43.5,winter,Metal,Nu-Metal,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+171,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9sM4sxLy,Excision: Nexus Tour,66.5,spring,Dance/Electronic,Witchstep,8.0,False,5000,LIVE NATION MUSIC
+172,KovZ917AxdQ,Big Night Live,vvG17Z9Re7nosj,FLATBUSH ZOMBIES - BetterOffDead 10 Year Anniversary,32.0,fall,Hip-Hop/Rap,French Rap,8.0,False,2000,LIVE NATION MUSIC
+173,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9SRc7ULi,Oliver Tree Presents Alone In A Crowd,69.25,winter,Dance/Electronic,Witchstep,6.0,False,5000,LIVE NATION MUSIC
+174,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9l5sMIQX,"Dylan Scott: ""This Town's Been Too Good To Us"" Tour",38.0,fall,Country,Country,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+175,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9wRmS4lD,Subtronics Tesseract Tour 2024 - Boston,46.5,winter,Dance/Electronic,Witchstep,8.0,False,5000,LIVE NATION MUSIC
+176,KovZpZAEAdEA,Leader Bank Pavilion,vvG17Z9SwLbeex,Jordan Davis: Damn Good Time World Tour,70.5,summer,Country,Country,48.0,False,5000,LIVE NATION MUSIC
+177,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9Ur4ReQx,Judas Priest,66.5,spring,Metal,Nu-Metal,8.0,False,5000,LIVE NATION MUSIC
+178,KovZpZA1J7JA,Orpheum Theatre presented by Citizens,vvG17Z9YAZpHez,Ashley McBryde: The Devil I Know Tour,48.0,fall,Country,Country,8.0,False,2700,LIVE NATION MUSIC
+179,KovZpZAFd1nA,Agganis Arena,vvG17Z9I9k6Kwb,Jhayco - Vida Rockstar Tour,95.37,winter,Latin,Latin,10.0,False,7200,PROMOTED BY VENUE
+180,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9SRgHpV-,Jacob Collier - DJESSE VOL. 4 NORTH AMERICA TOUR,51.5,spring,Jazz,Jazz,4.0,False,5000,LIVE NATION MUSIC
+181,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9s6UObpt,Mora,64.0,fall,Other,Other,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+182,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9wMh4AQy,Boyz II Men,61.5,winter,R&B,R&B,8.0,False,5000,LIVE NATION MUSIC
+183,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9VS2cNWt,Machine Head (18+),35.0,winter,Metal,Nu-Metal,8.0,True,933,CROSSROADS PRESENTS
+184,KovZpZAEA7eA,Citizens House of Blues Boston,vvG17Z9sN5H6yB,Dalton & the Sheriffs,27.5,winter,Country,Country,8.0,False,2200,HOUSE OF BLUES CONCERTS (HOB)
+185,KovZ917AxdQ,Big Night Live,vvG17Z9YzVdbbV,MorFlo Records & OffBeat present Mersiv - Out of Bounds Tour ( 18+ ),24.5,fall,Dance/Electronic,Witchstep,8.0,True,2000,LIVE NATION MUSIC
+186,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9YXKPvKP,LP Giobbi: Light Places Tour (18+),27.0,fall,Dance/Electronic,Witchstep,4.0,True,500,CROSSROADS PRESENTS
+187,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9U1WNU0K,Municipal Waste Brainsqueeze Tour (18+),25.0,winter,Metal,Nu-Metal,8.0,True,933,CROSSROADS PRESENTS
+188,KovZpZAEAdEA,Leader Bank Pavilion,vvG17Z9wivTkDZ,Dustin Lynch: Killed The Cowboy Tour With Special Guest Skeez,49.5,spring,Country,Country,8.0,False,5000,LIVE NATION MUSIC
+189,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9wB4RvTs,Beach Weather: Pineapple Sunrise The Tour,20.0,spring,Dance/Electronic,Witchstep,8.0,False,500,CROSSROADS PRESENTS
+191,KovZpZAEAIvA,The Wilbur,vvG17Z9bfg2Ew2,Buddy Guy: Damn Right Farewell,100.0,spring,Blues,Blues,8.0,False,1200,COMEDY CONNECTION
+192,KovZ917AxdQ,Big Night Live,vvG17Z9sDcUp0x,Adventure Club: Death or Glory II Tour ( 21+ ),35.0,fall,Dance/Electronic,Witchstep,8.0,True,2000,LIVE NATION MUSIC
+193,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9U5o8Enk,"Rad Museum, Miso, Tabber 'you.will.knovv' North America Tour",40.0,winter,R&B,R&B,8.0,False,933,CROSSROADS PRESENTS
+194,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9sMI1Sa2,Briston Maroney: Ultrapure Tour,25.0,winter,Folk,Indie Folk,8.0,False,933,CROSSROADS PRESENTS
+195,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9UjtGnpo,SiM: PLAYDEAD World Tour,31.0,spring,Metal,Nu-Metal,4.0,False,933,CROSSROADS PRESENTS
+196,KovZ917AEJz,MGM Music Hall at Fenway,vvG17Z9U9TXzeW,Boston Country Music Festival: Zeze Di Camargo,171.5,winter,Country,Country,8.0,False,5000,LIVE NATION MUSIC
+197,KovZpapwne,Brighton Music Hall presented by Citizens,vvG17Z9VRiaJCq,MIGHTY MYSTIC Winter Reggae Splash (18+),25.0,winter,Reggae,Reggae,8.0,True,500,CROSSROADS PRESENTS
+198,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9V1D6s2C,Zakk Sabbath (18+),35.0,winter,Undefined,Undefined,8.0,True,933,CROSSROADS PRESENTS
+199,KovZpZA11JtA,Paradise Rock Club presented by Citizens,vvG17Z9SEb30xE,Majid Jordan  - Good People Live (18+),35.0,fall,Dance/Electronic,Witchstep,6.0,True,933,CROSSROADS PRESENTS
